@@ -125,7 +125,7 @@ ShowFileOperationsDetails       # HideFileOperationsDetails
 # EnableFileDeleteConfirm       # DisableFileDeleteConfirm
 HideTaskbarSearch               # ShowTaskbarSearchIcon         # ShowTaskbarSearchBox
 HideTaskView                    # ShowTaskView
-ShowSmallTaskbarIcons           # ShowLargeTaskbarIcons
+# ShowSmallTaskbarIcons           ShowLargeTaskbarIcons
 SetTaskbarCombineWhenFull       # SetTaskbarCombineNever        # SetTaskbarCombineAlways
 HideTaskbarPeopleIcon           # ShowTaskbarPeopleIcon
 # ShowTrayIcons                 # HideTrayIcons
@@ -222,7 +222,7 @@ UninstallHelloFace            # InstallHelloFace
 UninstallMathRecognizer       # InstallMathRecognizer
 # UninstallPowerShellV2         # InstallPowerShellV2
 # UninstallPowerShellISE        # InstallPowerShellISE
-# InstallLinuxSubsystem         # UninstallLinuxSubsystem
+InstallLinuxSubsystem         # UninstallLinuxSubsystem
 InstallHyperV                 # UninstallHyperV
 # UninstallSSHClient            # InstallSSHClient
 # InstallSSHServer              # UninstallSSHServer
